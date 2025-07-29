@@ -1,0 +1,2 @@
+# Printing Sim Hello World
+print("Hello, World!")
